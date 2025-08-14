@@ -1,0 +1,29 @@
+div{
+    color: blueviolet;
+    text-align: center;
+}
+
+#img{
+    height: 170px;
+    width: 270px;
+}
+
+#nomes{
+    text-align: center;
+    border-radius: 15px;
+    height: 40px;
+}
+
+#enviar{
+    border-radius: 15px;
+    background-color: blueviolet;
+    width: 70px;
+    height: 40px;
+}
+
+#sortear{
+    border-radius: 15px;
+    background-color: blueviolet;
+    width: 150px;
+    height: 40px;
+}
