@@ -1,4 +1,8 @@
 div{
+    text-align: center;
+}
+
+#cabeçalho{
     color: blueviolet;
     text-align: center;
 }
@@ -26,4 +30,10 @@ div{
     background-color: blueviolet;
     width: 150px;
     height: 41px;
+}
+
+#lista{
+    text-align: center;
+    background-color: blueviolet;
+    
 }
